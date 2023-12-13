@@ -1,0 +1,9 @@
+import java.io.*;
+
+public class Doc2
+	{
+	public class void main(String []args)
+		{
+		System.out.println("Awesome way to learn ");
+		}
+	}
